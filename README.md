@@ -12,14 +12,13 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNKkqo-GkFSyqH6LRmfhd19IK-foMABe8h2w&s"  />
   
-<p align="right">I am 18 years old<br>I study in high school<br>I want to work in Google<br>Learning: Computer Science<br>Hobbies: Gaming, Coding<br>Loves: Video games 🎮, Stuff technology 🚀, Books 📚.</p>
 </div>
 
 ###
-
+<p align="left">I am 18 years old<br>I study in high school<br>I want to work in Google<br>Learning: Computer Science<br>Hobbies: Gaming, Coding<br>Loves: Video games 🎮, Stuff technology 🚀, Books 📚.</p>
 
 ###
 
