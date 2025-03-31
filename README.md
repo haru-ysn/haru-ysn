@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I am 18 years old<br>I study in high school<br>I want to work in Google<br>Learning: Computer Science<br>Hobbies: Gaming, Coding<br>Loves: Video games 🎮, Stuff technology 🚀, Books 📚.</p>
+<p align="right">I am 18 years old<br>I study in high school<br>I want to work in Google<br>Learning: Computer Science<br>Hobbies: Gaming, Coding<br>Loves: Video games 🎮, Stuff technology 🚀, Books 📚.</p>
 
 ###
 
