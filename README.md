@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNKkqo-GkFSyqH6LRmfhd19IK-foMABe8h2w&s"  />
+  <img height="200" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwCyCjToXJUIp7KgSVLYuAYw"  />
   
 </div>
 
